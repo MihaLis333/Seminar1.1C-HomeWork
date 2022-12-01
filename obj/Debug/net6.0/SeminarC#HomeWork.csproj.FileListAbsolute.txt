@@ -1,0 +1,15 @@
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\bin\Debug\net6.0\SeminarC#HomeWork.exe
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\bin\Debug\net6.0\SeminarC#HomeWork.deps.json
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\bin\Debug\net6.0\SeminarC#HomeWork.runtimeconfig.json
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\bin\Debug\net6.0\SeminarC#HomeWork.dll
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\bin\Debug\net6.0\SeminarC#HomeWork.pdb
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.csproj.AssemblyReference.cache
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.AssemblyInfoInputs.cache
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.AssemblyInfo.cs
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.dll
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\refint\SeminarC#HomeWork.dll
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.pdb
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\SeminarC#HomeWork.genruntimeconfig.cache
+C:\Users\МихаЛис\Documents\GeekBrains\Seminars\SeminarC#HomeWork\obj\Debug\net6.0\ref\SeminarC#HomeWork.dll
