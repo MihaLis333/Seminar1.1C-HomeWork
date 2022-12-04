@@ -77,3 +77,21 @@ while (current <= num)
 
 
 
+// ДОМАШНЕЕ ЗАДАНИЕ 2 СЕМИНАРА:
+
+// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+int twoNum(int num)
+{
+    int sot = num / 100;
+    int doz = num / 10;
+    int ed = num % 10;
+
+    int result = doz - sot;
+    return result;
+}
+
+Console.Write("Введите трехзначное число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine(????);
