@@ -102,7 +102,24 @@ Console.WriteLine(nNum);
 
 // Задача 2. Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-int thNum(int num);
+
+// Задача 3. Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+void dayNum(int num)
 {
-    
+    if (num == 6 || num == 7 )
+    {
+        Console.WriteLine("Выходной день");
+    }
+    else if (num < 1 || num > 7)
+    {
+        Console.WriteLine("В неделе 7 дней, введите от 1 до 7");
+    }
+
+    else Console.WriteLine("Будний день");
 }
+
+Console.Write("Введите число дня недели: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+dayNum(num);
