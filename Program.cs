@@ -81,17 +81,28 @@ while (current <= num)
 
 // Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
+/*
 int twoNum(int num)
 {
     int sot = num / 100;
-    int doz = num / 10;
+    int doz = num % 100;
     int ed = num % 10;
 
-    int result = doz - sot;
+    int result = doz / 10;
     return result;
 }
 
 Console.Write("Введите трехзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(????);
+int nNum = twoNum(num);
+
+Console.WriteLine(nNum);
+*/
+
+// Задача 2. Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
+int thNum(int num);
+{
+    
+}
