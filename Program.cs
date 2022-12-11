@@ -147,3 +147,26 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 dayNum(num);
 */
+
+// Домашнее задание 3 семинара.
+
+//Задача 1. Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+void palindrome(int num)
+{
+    int rev = 0;
+    int big = num % 10;
+    int rev1 = rev * 10 + big;
+    int n1 = num / 10; 
+    while(num < rev)
+    {
+        if(rev == rev1) Console.Write("Это палиндром");
+        else Console.Write("Это не палиндром");
+        num++;
+        
+    }
+}
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+palindrome(number);
