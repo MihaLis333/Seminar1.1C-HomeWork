@@ -158,9 +158,9 @@ void palindrome(int num)
     int big = num % 10;
     int rev1 = rev * 10 + big;
     int n1 = num / 10; 
-    while(num < rev)
+    while(num > rev)
     {
-        if(rev == rev1) Console.Write("Это палиндром");
+        if(num == rev1) Console.Write("Это палиндром");
         else Console.Write("Это не палиндром");
         num++;
         
